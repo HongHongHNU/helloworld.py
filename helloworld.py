@@ -9,3 +9,4 @@ for _ in range(1000):
 env.close()
 
 print('hello world')
+print('try_2')
